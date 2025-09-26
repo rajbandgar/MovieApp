@@ -3,6 +3,8 @@
 A React-based movie search app using the TMDb API. Built to learn and apply React fundamentals through one project — fetching and displaying popular movies, searching by title, and handling UI states.
 
 ---
+##Demo Video
+[(https://youtu.be/zx7zRGhmDbM)]
 
 ## 🧠 Approach & Thinking
 
